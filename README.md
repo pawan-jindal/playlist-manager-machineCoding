@@ -8,7 +8,7 @@
 * PlaylistManagerApplication.java: Is the driver/runner file or starting point of the service/code.
 * For now code is not runnable due to time constraint but satisfy most of the requirement.
 
-### Requirements of snake and ladder application ###
+### Requirements of Playlist manager application ###
 Let’s first understand the requirements.
 
 ### Mandatory Requirements ###
